@@ -50,7 +50,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/saga/proprietary/libGLESv1_CM_adreno200.so:/system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/htc/saga/proprietary/libGLESv2_adreno200.so:/system/lib/egl/libGLESv2_adreno200.so \
     vendor/htc/saga/proprietary/libq3dtools_adreno200.so:/system/lib/egl/libq3dtools_adreno200.so \
-    vendor/htc/saga/proprietary/libGLESv2S3D_adreno200.so:/system/lib/egl/libGLESv2S3D_adreno200.so \
+    vendor/htc/saga/proprietary/libplayback_adreno200.so:/system/lib/egl/libplayback_adreno200.so  \
     vendor/htc/saga/proprietary/libaudioalsa.so:/system/lib/libaudioalsa.so \
     vendor/htc/saga/proprietary/libC2D2.so:/system/lib/libC2D2.so \
     vendor/htc/saga/proprietary/libc2d2_z180.so:/system/lib/libc2d2_z180.so \
@@ -64,6 +64,8 @@ PRODUCT_COPY_FILES += \
     vendor/htc/saga/proprietary/libchromatix_s5k4e1gx_preview.so:/system/lib/libchromatix_s5k4e1gx_preview.so \
     vendor/htc/saga/proprietary/libgemini.so:/system/lib/libgemini.so \
     vendor/htc/saga/proprietary/libgsl.so:/system/lib/libgsl.so \
+    vendor/htc/saga/proprietary/libllvm-arm.so:/system/lib/libllvm-arm.so \
+    vendor/htc/saga/proprietary/libOpenCL.so:/system/lib/libOpenCL.so \
     vendor/htc/saga/proprietary/libhtc_acoustic.so:/system/lib/libhtc_acoustic.so \
     vendor/htc/saga/proprietary/libhtc_ril.so:/system/lib/libhtc_ril.so \
     vendor/htc/saga/proprietary/libmmipl.so:/system/lib/libmmipl.so \
