@@ -56,7 +56,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/saga/proprietary/libc2d2_z180.so:/system/lib/libc2d2_z180.so \
     vendor/htc/saga/proprietary/libcamera.so:/system/lib/libcamera.so \
     vendor/htc/saga/proprietary/liboemcamera.so:/system/lib/liboemcamera.so \
-    vendor/htc/saga/proprietary/camera.default.so:/system/lib/hw/camera.default.so \
+    vendor/htc/saga/proprietary/camera.vendor.msm7x30.so:/system/lib/hw/camera.vendor.msm7x30.so \
     vendor/htc/saga/proprietary/libOlaEngine.so:/system/lib/libOlaEngine.so \
     vendor/htc/saga/proprietary/libcameraface.so:/system/lib/libcameraface.so \
     vendor/htc/saga/proprietary/libcamerapp.so:/system/lib/libcamerapp.so \
